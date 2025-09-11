@@ -1,0 +1,2 @@
+Le site web du TP1 dans le cadre du cours, "Exploration du domaine informatique". Il représente le site web du compagnie fictif nommée "TechNova Solutions". Le site web contient plusiuers pages différentes pour les projets de la compagnie, une description de l'équipe de la compagnie, un profil individuel pour chaque développeur, et une page d'accueil contenant les liens vers les différentes pages.
+Ce TP à était réalisé par Wissem Djebbi et Ludovic Charbonneau.
